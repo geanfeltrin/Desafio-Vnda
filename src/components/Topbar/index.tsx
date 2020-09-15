@@ -40,7 +40,7 @@ const TopBar: React.FC = () => {
           </Link>
           <Link href="/" passHref>
             <Typography variant="h6" color="inherit" className={classes.cursor}>
-              Desafio - react
+              Desafio - Vnda
             </Typography>
           </Link>
         </Toolbar>
