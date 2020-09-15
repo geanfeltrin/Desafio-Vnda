@@ -56,7 +56,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 ```bash
 
 # Clone este repositório
-$ git clone git@github.com:geanfeltrin/desafio-vnda
+$ git clone git@github.com:geanfeltrin/Desafio-Vnda.git
 
 # Acesse a pasta do projeto no seu terminal/cmd
 $ cd desafio-vnda
